@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<false/>
+			<key>IgnoreManifestScope</key>
+			<false/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Snap Chat</string>
+			<key>PayloadDescription</key>
+			<string>Opens Snapchat web in Safari so chat stays available and Spotlight stays hidden.</string>
+			<key>PayloadDisplayName</key>
+			<string>Snap Chat</string>
+			<key>PayloadIdentifier</key>
+			<string>app.nospotlight.webclip</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>BAA16A7A-D11F-4D8B-A30E-5935D70F60D1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://www.snapchat.com/web/</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Adds a Snap Chat icon to the Home Screen. It opens in Safari, where desktop mode and the Spotlight script apply.</string>
+	<key>PayloadDisplayName</key>
+	<string>Snap Chat</string>
+	<key>PayloadIdentifier</key>
+	<string>app.nospotlight.profile</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>FB924BEC-D85E-493D-B07D-E741E307979E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
